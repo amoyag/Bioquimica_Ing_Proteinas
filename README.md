@@ -1,1 +1,2 @@
-# Bioquimica_Ing_Proteinas
+# Bioquímica e Ingieniería de Proteinas
+
