@@ -11,4 +11,5 @@
 4. [Working with the Scoring Function](https://github.com/amoyag/Bioquimica_Ing_Proteinas/blob/main/3-Scoring_function/clase3-score_alumnos.ipynb)
 
 
+5. [Protein Folding](https://github.com/amoyag/Bioquimica_Ing_Proteinas/blob/main/4-Protein_folding/protein_folding_alumnos.ipynb)
 
