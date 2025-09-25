@@ -17,3 +17,6 @@ Jupyter Notebooks.
 ### TEMA 2: Análisis y diseño computacional de proteínas
 
 6. [Protein Design](https://github.com/amoyag/Bioquimica_Ing_Proteinas/blob/main/5-Protein_design/protein_design_alumnos.ipynb)
+
+
+[Ejercicio: Rescate del Péptido β-Hairpin Disfuncional](https://github.com/amoyag/Bioquimica_Ing_Proteinas/blob/main/ejercicio_design.md)
