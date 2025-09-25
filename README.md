@@ -21,4 +21,8 @@ Jupyter Notebooks.
 
 ### EJERCICIO TEMAS 1 y 2
 
-[Ejercicio: Rescate del Péptido β-Hairpin Disfuncional](https://github.com/amoyag/Bioquimica_Ing_Proteinas/blob/main/ejercicio_design.md)
+[Ejercicio: Rescate del Péptido β-Hairpin Disfuncional](https://amoyag.github.io/Bioquimica_Ing_Proteinas/ejercicio/)
+
+[Rúbrica de Evaluación](https://amoyag.github.io/Bioquimica_Ing_Proteinas/ejercicio/rubrica/)
+
+[Estructura problema](https://amoyag.github.io/.../ejercicio/hairpin_charge_clash.pdb)
