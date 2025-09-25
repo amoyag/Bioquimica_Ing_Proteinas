@@ -25,4 +25,4 @@ Jupyter Notebooks.
 
 [Rúbrica de Evaluación](https://amoyag.github.io/Bioquimica_Ing_Proteinas/ejercicio/rubrica/)
 
-[Estructura problema](https://amoyag.github.io/.../ejercicio/hairpin_charge_clash.pdb)
+[Estructura problema](https://amoyag.github.io/Bioquimica_Ing_Proteinas/ejercicio/problematic_hairpin.pdb)
