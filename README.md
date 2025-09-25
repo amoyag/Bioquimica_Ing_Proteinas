@@ -19,4 +19,6 @@ Jupyter Notebooks.
 6. [Protein Design](https://github.com/amoyag/Bioquimica_Ing_Proteinas/blob/main/5-Protein_design/protein_design_alumnos.ipynb)
 
 
+### EJERCICIO TEMAS 1 y 2
+
 [Ejercicio: Rescate del Péptido β-Hairpin Disfuncional](https://github.com/amoyag/Bioquimica_Ing_Proteinas/blob/main/ejercicio_design.md)
