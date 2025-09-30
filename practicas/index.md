@@ -12,7 +12,7 @@ Las *cold shock proteins* (Csps) son proteínas pequeñas (~70 residuos) que se 
 
 Trabajaréis en **equipos de 4 personas** para diseñar mutaciones que aumenten la estabilidad térmica de **Bs-CspB**, la proteína cold shock B de *Bacillus subtilis* (bacteria mesófila, Tm = 48°C).
 
-**Objetivo:** Diseñar entre 1 y 5 mutaciones que maximicen la termoestabilidad predicha computacionalmente.
+**Objetivo:** Diseñar entre 1 y 10 mutaciones aproximadamente que maximicen la termoestabilidad predicha computacionalmente.
 
 
 La **estructura 3D de Bs-CspB** de partida está en PDB: 1CSP. Su Tm es de 49 C (pH 7.0). No contiene puentes disulfuro, residuos cis-Pro ni cofactores unidos.
