@@ -26,3 +26,8 @@ Jupyter Notebooks.
 [Rúbrica de Evaluación](https://amoyag.github.io/Bioquimica_Ing_Proteinas/ejercicio/rubrica/)
 
 [Estructura problema](https://amoyag.github.io/Bioquimica_Ing_Proteinas/ejercicio/problematic_hairpin.pdb)
+
+
+### PRÁCTICAS
+
+[Estabilización térmica de cold shock protein](https://amoyag.github.io/Bioquimica_Ing_Proteinas/practica)
