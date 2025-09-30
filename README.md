@@ -30,4 +30,4 @@ Jupyter Notebooks.
 
 ### PRÁCTICAS
 
-[Estabilización térmica de cold shock protein](https://amoyag.github.io/Bioquimica_Ing_Proteinas/practica)
+[Estabilización térmica de cold shock protein](https://amoyag.github.io/Bioquimica_Ing_Proteinas/practica/)
