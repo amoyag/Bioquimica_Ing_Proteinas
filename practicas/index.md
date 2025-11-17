@@ -63,7 +63,21 @@ Donde:
   - Más de 10 mutaciones: factor = 0.6
   
 
-**Bonificación:** +5% si el diseño introduce al menos un salt bridge nuevo
+**Bonificación:** +5% si el diseño introduce al menos un salt bridge nuevo.
+
+**Criterio operativo en banda limítrofe**  
+Cuando el **bonus por puente salino (+5%)** desplaza el *score de estabilidad* a la vecindad del umbral superior (±0.5 REU), se asigna la **banda superior** para reflejar el efecto del bonus.  
+
+Ejemplo: Diseño D01 →  Score = (-10.20) $\times$ 0.9 $\times$ 1.05 = -9.64
+
+Aunque el valor final queda ligeramente por encima de –10, se considera dentro del margen y se asigna la banda **≤ –10** (55 puntos), en lugar de la banda inferior (45 puntos).
+
+Este criterio evita que el bonus quede neutralizado por un redondeo estricto y garantiza que el puente salino nuevo tenga impacto real en la calificación.
+
+***
+
+¿Quieres que lo añada también a los **informes técnicos** que generamos para los grupos, en la sección de criterios de evaluación?
+
 
 #### **2. Calidad Científica (30%)**
 
